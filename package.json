@@ -11,16 +11,26 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@abandonware/bluetooth-hci-socket": "^0.5.3-10",
     "@abandonware/noble": "^1.9.2-23",
     "bluetooth-hci-socket": "^0.5.1",
+=======
+"@abandonware/bluetooth-hci-socket": "^0.5.3-10",
+>>>>>>> a0a285f20e5c2edc1705051cce1db42e03753c72
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongoose": "^7.5.2",
+<<<<<<< HEAD
     "noble": "^1.9.1",
     "node-beacon-scanner": "^0.2.2",
     "nodemon": "^3.0.1",
     "usb": "^2.10.0"
+=======
+     "noble": "^1.9.1",
+    "node-beacon-scanner": "^0.2.2",
+    "nodemon": "^3.0.1"
+>>>>>>> a0a285f20e5c2edc1705051cce1db42e03753c72
   }
 }
