@@ -5,5 +5,5 @@ const uniqueMacAddressController = require('../Controller/uniqueMacAddressContro
 
 // POST request to add a unique MAC address
 router.post('/add', uniqueMacAddressController.addUniqueMacAddress);
-
+router.get('/getAll', uniqueMacAddressController.getAllUniqueMacAddresses);
 module.exports = router;
