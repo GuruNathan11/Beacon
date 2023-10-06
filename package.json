@@ -161,8 +161,8 @@
   "devDependencies": {},
   "scripts": {
     "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "node-gyp rebuild"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "",
